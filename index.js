@@ -18,7 +18,7 @@ const questions = [
       {
         type: "input",
         message: "What are your project's installation instructions?",
-        name: "install",
+        name: "installation",
         default: "npm i, node index.js"
       },
       {
