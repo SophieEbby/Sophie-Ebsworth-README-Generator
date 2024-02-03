@@ -6,7 +6,7 @@
 * [Links](#links)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Technologies Used](#technologies-used
+* [Technologies Used](#technologies-used)
 * [Credits](#credits)
 * [Questions](#questions)
 
@@ -33,7 +33,7 @@ SSH:
 $ git clone git@github.com:SophieEbby/Sophie-Ebsworth-README-Generator.git
 
 Then cd/ into the cloned directory and start the application by typing into the command line
-```
+
 $ node index.js
 ```
 
